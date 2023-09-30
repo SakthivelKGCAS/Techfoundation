@@ -1,0 +1,136 @@
+In priority scheduling process with the same priority or scheduled with the.
+A) First come first serve.
+B) Round Robin scheduling.
+C) Priority scheduling.
+D) Shortest job. First scheduling.
+ANSWER: A
+The process which is ready and waiting to executor kept on a list called.
+A) Ready queue.
+B) Wait
+C) New
+D) Running
+ANSWER: A
+Consider that the following process with the given CPU burst time and arrival time or scheduled with the priority scheduling method. Consider a smaller priority number as the highest priority( Process with priority 1 Will be scheduled before the process with priority to. If both of them are in the ready queue). What is the average waiting time?
+A) 0
+B) 10
+C) 6
+D) 3
+ANSWER: A (In correct)
+
+Consider that the following processes with the given CPU burst time and arrival time or scheduled with the round Robin method. Consider time slice = 3,5,7. Find which time slice leads to the shortest to turn around time for the given process.
+A) 5
+B) 3
+C) 7
+ANSWER: A
+
+Consider that the following process with the given CPU burst time and arrival time or scheduled with the priority scheduling method. Consider a smaller priority number as the highest priority( Process with priority 1 Will be scheduled before the process with priority to. If both of them are in the ready queue). What is the average waiting time?
+A) 3.12
+B) 4.75
+C) 3.80
+D) 5.60
+ANSWER: B Correct
+
+Consider that the following process with the given CPU burst time and arrival time or scheduled with the round Robin method. Consider time slice = 5. What is the average waiting time?
+A) 9.7
+B) 6.6
+C) 9.5
+D) 7.3
+ANSWER: C correct
+
+Consider that the following process with the given CPU burst time and arrival time or scheduled with the round Robin method. Consider time slice = 5. What is the average Turn around time.?
+A) 16.1
+B) 17.5
+C) 21.2
+D) 22.9
+ANSWER: B correct
+
+Consider that the following processes with the given CPU burst time and arrival time or scheduled with the shortest job first method. What is the turn around time for process P4?
+A) 35
+B) 32
+C) 38
+D) 20 (11.5 ans)
+ANSWER: D (In correct)
+Consider that the following processes With the given CPU burst time and arrival time, or scheduled with the shortest job first method, what is the average waiting time? (Total Waiting instead of Avg.Waiting Time)
+A) 22
+B) 14
+C) 16
+D) 18
+ANSWER: C (Total Waiting Time)
+
+Consider that the following processes with the given CPU burst time and arrival time or scheduled with the priority scheduling method. Consider a smaller priority number as the highest priority( Process with the priority 1 will be scheduled before the process with the priority two if both of them are in the ready queue). What is the Average turn around time.
+A) 8.75.
+B) 8.5
+C) 8.15
+D) 8.30
+ANSWER: A correct
+
+Consider that the following process with the given CPU bursting and arrival time or scheduled with the first come first serve method. What is the average waiting time?
+A) 17.25
+B) 27.25 (22.75)
+C) 25.48
+D) 25.18
+ANSWER: B (IN CORRECT)
+
+Consider that the following processes with the given CPU burst time and arrival time or scheduled with the first come first serve method. What is the Average Turn around time?
+A) 10.75.
+B) 10
+C) 13.75
+D) 12
+ANSWER: B correct
+
+Processes with the given CPU burst time and arrival time or scheduled. Consider a smaller priority number of the highest priority ( Process with priority one Will be scheduled before the process with the priority two if both of them are in a ready queue). Consider time slice is 5. Find which algorithm leads to the shortest turn around time for the given process.
+A)  Shortest job. First scheduling.
+B) Priority scheduling.
+C) Round Robin scheduling.
+D) First come first serve scheduling.
+ANSWER: C
+
+Consider that the following process with the given CPU burst time and arrival time or scheduled with the Shortest job, first method. What is the average Turn around time.?
+A) 19
+B) 24 (11.5)
+C) 21
+D) 16
+ANSWER: B(In correct)
+
+Consider that the following process with the given CPU burst time and arrival time or scheduled with the round Robin method. Consider time slice = 5. What is the average Turn around time.?
+A) 16.1
+B) 17.5
+C) 21.2
+D) 22.9
+ANSWER: B correct
+
+The total amount of time spent by a process in this system is termed as.
+A) Completion time.
+B) Response time.
+C) Waiting time.
+D) Turn around time.
+ANSWER: D
+What is interprocess communication?
+A) Communication between two processes.
+B) Communication between process and IO devices.
+C) Communication between process and operating system.
+D) Communication between process and CPU.
+ANSWER: A
+What is the shortest job first scheduling?
+A) First executes the process that has high priority.
+B) First executes the process that came in first in the Ready queue.
+C) First executes the process that has the shortest burst time.
+D) First executes the process that came in last in the ready queue.
+ANSWER: C
+What is the waiting time?
+A) Time at which process completes its execution.
+B) The total amount of time spent by the process in the system.
+C) Amount of time spent by a process in the ready queue.
+D) Time at which the process arrives in the ready queue.
+ANSWER: C
+When the process issues an IO Request _____________
+A) It is placed in an IOQ.
+B) It is placed in the ready queue.
+C) It is placed in the waiting queue.
+ANSWER: C
+Which of the following is not a state of a process?
+A) New
+B) Register
+C) Wait
+D) Running
+ANSWER: B

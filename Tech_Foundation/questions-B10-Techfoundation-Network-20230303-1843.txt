@@ -1,0 +1,80 @@
+_____________ is responsible for getting data delivered across a collection of networks.
+A) Transport layer.
+B) Physical layer.
+C) Network layer.
+D) Application layer.
+ANSWER: C
+_______________ Sent a message to a selected destination based on its MAC address.
+A) Hub
+B) switch.
+ANSWER: B
+________________ Sent a message to your selected destination based on its MAC address.
+A) Hub.
+B) Switch.
+ANSWER: B
+_________________ Is used to determine when the communication channels or clear and when the device is free to transmit data.
+A) Transport layer.
+B) IP.
+C) TCP
+D) CSMA
+ANSWER: D
+__________________________ Is it responsible for ensuring that data gets to the right process (application)?
+A) Transport layer.
+B) Physical layer.
+C) Network layer.
+D) Application layer.
+ANSWER: A
+2.A ________________ is a standard set of rules that allow electronic device to communicate and understand one another.
+A) Standards.
+B) Rules.
+C) Protocol.
+D) Servers.
+ANSWER: C
+Given that the same number of devices are connected which among hub and switch causes a larger collision domain.
+A) Switch.
+B) Hub.
+ANSWER: B
+Hub transfers the data to _________________ connected to the hub.
+A) Specific
+B) Every other.
+ANSWER: B
+The data link layer takes the packets from ____________ and encapsulates them into frames for transmission.
+A) Network layer.
+B) Transport layer.
+C) Application layer.
+D) Physical layer.
+ANSWER: A
+The physical layer translates logical communication requested from the _______________ Into hardware specific operations.
+A) Transport layer.
+B) Data link layer.
+C) Application layer.
+D) Network layer.
+ANSWER: B
+Which of the following is correct?
+A) HUB is a physical layer device.
+B) Switch is a Network layer device.
+C) Switch is a physical layer device.
+D) Hub is a network layer device.
+ANSWER: A
+Which of the following is true about the Mac address?
+A) Two different devices can have the same MAC address, given that they are connected to different networks.
+B) MAC stands for media access control.
+C) Network hardware manufacturers ensure that the MAC address is unique.
+ANSWER: B
+Which of the following layers exist in TCP IP Five layer, network model check all that apply.
+A) Transport layer.
+B) Application layer.
+C) Presentation layer.
+D) Session layer.
+E) Physical layer.
+ANSWER: A
+Which of the following remembers the Mac address of the device connected to each interface?
+A) Hub
+B) switch.
+ANSWER: B
+Which of the layers responsible for transmitting the signal?
+A) Physical layer
+B) Application Layer
+C) network layer
+D) data link layer.
+ANSWER: A

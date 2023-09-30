@@ -1,0 +1,65 @@
+A thread can also called as
+A) Light Weight Process(LWP)
+B) Heavy Weight Process(HWP)
+ANSWER: A
+A thread shares its resources(like data, code, files) with ___________
+A) All of the given options
+B) other process similar to the one that the thread belongs to
+C) other threads that belong to the same process
+D) other threads that belong to similar processes.
+ANSWER: C
+Context Switching is relatively faster in among___________
+A) threads
+B) Process
+ANSWER: A
+If thread A has acquired lock, when can thread B can acquire lock?
+A) Thread B can acquire lock at the same time
+B) After the lock is leased by Thread A
+ANSWER: B
+In Multi-threaded Process, each thread will have its own
+A) Files
+B) Stack
+C) Data
+D) Register
+ANSWER: B
+Is there a deadlock in the following resource allocation?
+A) Yes
+B) No
+ANSWER: B
+The time required to create a new thread in an existing process is usually_________
+A) Equal to the time required to create a new process.
+B) Greater than the time required to create a new process?
+C) Less than the time required to create a new process.
+ANSWER: C
+Which of the following are necessary conditions for deadlocks to happen in a sysytem?
+A) A process can only release a resource Voluntarily
+B) A process can hold multiple resources and can still request many
+C) A resource can be acquired by a process by force
+ANSWER: A
+Which of the following are the advantages of concurrency?
+A) Better resource utilization &amp; performance
+B) Responsive Applications
+C) Multi-threaded programs are easy to develop than single thread programs
+ANSWER: A
+Which of the following browser will start a new process by opening a new tab
+A) Google Chrome
+B) Mozilla Firefox
+ANSWER: A
+Which of the following is true about threads over process
+A) Process takes less time to create and terninate
+B) Quick communication between threads
+C) Process enables faster context switching
+D) Threads take less time to create and terminate
+ANSWER: B
+Which of the following statements are True?
+A) A deadlock is a situation, where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by another process
+B) Locking mechanisms allow us to limit and control the number of theads running in a critical selection
+C) Different threads of a process can simultaneously run on different cores of the CPU
+D) Ensuring that only a single thread can execute in a critical section reduces concurrency issues.
+ANSWER: A
+Which one of the following is/are not shared by different threads of same process?
+A) Data
+B) program Counter
+C) Stack
+D) Code
+ANSWER: B

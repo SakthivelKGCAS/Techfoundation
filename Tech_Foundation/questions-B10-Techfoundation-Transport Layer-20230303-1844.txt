@@ -1,0 +1,52 @@
+____________Signal is used to intimate that the receiver has received the message.
+A) SYN
+B) FIN
+C) ACK
+ANSWER: C
+If there is a loss of acknowledgement signal through the packet has received, how will the sender will know it?
+A) TTL
+B) time out in receiving acknowledgement
+ANSWER: B
+Is there is a loss of packet in transmission? How will the sender know it?
+A) Time out in receiving acknowledgement.
+B) TTL.
+ANSWER: A
+NAT stands for.
+A) Network address transmission.
+B) Network address translation.
+ANSWER: B
+The term UDP refers to.
+A) User durability protocol.
+B) User distance protocol.
+C) User datagram protocol.
+ANSWER: C
+Which of the following additional information is added to header in the transport layer?
+A) IP address.
+B) Mac address.
+C) Process name.
+D) Port.
+ANSWER: D
+Which of the following is efficient way to transfer a larger message?
+A) To transmit as it is.
+B) Breakdown into smaller messages.
+ANSWER: B
+Which of the following mechanisms will ensure the data is reliably delivered?
+A) TCP
+B) UDP
+ANSWER: A
+Which of the following message is used to initiate and establish a connection?
+A) SYN
+B) FIN
+ANSWER: A
+Which of the following message is used to terminate the connection.
+A) SYN
+B) FIN
+ANSWER: B
+Which of the following protocol does not ensure reliable data transfer?
+A) TCP
+B) UDP
+ANSWER: B
+Which of the protocol is relatively fast?
+A) UDP
+B) TCP
+ANSWER: A

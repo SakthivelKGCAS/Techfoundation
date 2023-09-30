@@ -1,0 +1,44 @@
+_____________ used to uniquely identify a given file.
+A) File extension.
+B) File content.
+C) File name.
+D) File path.
+ANSWER: D
+_________________ Is the interface between software and hardware.
+A) CPU.
+B) BIOS
+C) File system.
+D) Operating system.
+ANSWER: C
+File content type is usually represented by _______
+A) File Name
+B) File Extension
+C) Folder Name
+D) None of the options
+ANSWER: B
+Programs we interact directly are part of ______________
+A) User space.
+B) Kernel
+ANSWER: A
+The default data block size in the NTFS file system is _____________
+A) 4GB.
+B) 4K B.
+C) 8GB.
+D) 8 KB.
+ANSWER: B
+The short interval of time allocated to a process for CPU execution is known as ____________
+A) Time Intervals
+B) Time Blocks
+C) Time Slice
+D) None of the options
+ANSWER: B
+Which of the following is responsible for managing how data is stored on the disk?
+A) File path.
+B) File data.
+C) File meta data.
+D) File system.
+ANSWER: D
+Which part of the operating has direct interaction with hardware?
+A) Kernel
+B) Userspace
+ANSWER: A

@@ -1,0 +1,131 @@
+The value of a base in a Binary Number System is ______________
+A) 12
+B) 8
+C) 10
+D) 2
+ANSWER: D
+Which is typically the smallest.
+A) megabyte
+B)  Byte
+C) Bit
+D) Gigabyte
+ANSWER: C
+Which of the following is the correct representation of binary numbers?
+A) 1212
+B) 101<sup>2<sup>
+C) 10010
+D) 0012
+ANSWER: D
+Convert decimal 255 to binary.
+A) 1111111
+B) 10000001
+C) 11111111
+D) 10000000
+ANSWER: C
+Which of the following is correct?
+A) Decimal is understandable by computers.
+B) ASCII values allows us to represent characters using more than one bite.
+C) A binary Number expressed in digits 09.
+D) All types of content must be converted to binary.
+ANSWER: D
+The ASCII code requires.
+A) One bit
+B) 8 bytes.
+C) 4 bytes.
+D) One Bit
+ANSWER: B
+How many distinct combinations are possible in 16 bit binary number representation ?
+A) 65535
+B) 65536
+C) 256
+D) 255
+ANSWER: B
+Why did UTF 8 replace ASCII?
+A) ASCII represent different language characters.
+B) Unique code can store a characters using more than one bite.
+C) ASCII represents emojis.
+D) ASCII can store a characters using more than one bite.
+ANSWER: B
+Which of the following is incorrect?
+A) Binary is the only notation that computers understand.
+B) Binary is not understandable by computers.
+C) A binary number is a number  Expressed in ones and zeros.
+D) The smallest Unit in image is called.
+ANSWER: B
+The smallest Unit in image is called.
+A) Element
+B) byte
+C) pixel
+D) Bit
+ANSWER: C
+The Decimal Equivalent of binary 101 is _____________
+A) 5
+B) 6
+C) 95
+D) 8
+ANSWER: A
+Which out of the following binary numbers is equivalent to decimal number 65?
+A) 1000010
+B) 1000011.
+C) 100001.
+D) 1000001.
+ANSWER: D
+Convert binary number 10001111  to decimal number
+A) 143
+B) 64
+C) 124
+D) 67
+ANSWER: A
+A binary number system consists of two digits which are.
+A) 0,1
+B) 1,8
+C) 0,8
+D) 1,2
+ANSWER: A
+The value of a base in a Decimal Number System is ______________
+A) 10
+B) 2
+C) 8
+D) 16
+ANSWER: A
+The Binary Equivalent of Decimal Number System 101 is _____________
+A) 1100101
+B) 1100100
+C) 1010011
+ANSWER: A
+Which of the following is not the Binary Number
+A) 101
+B) 1010010100
+C) 201
+D) 1
+ANSWER: C
+How many binary digits are required to represent 16?
+A) 2
+B) 4
+C) 5
+D) 3
+ANSWER: C
+A decimal number system consist of 10 digits from.
+A) 0,1
+B) 1 to 10
+C) 1 to 8
+D) 0 to 9
+ANSWER: D
+The decimal equivalent of the binary  number 10101010 is ________
+A) 170
+B) 102
+C) 255
+D) 128
+ANSWER: A
+The computer only understand
+A) Whole numbers
+B) English
+C) Zeros and ones
+D) Unicode.
+ANSWER: C
+What is the highest possible number in 8 bit binary number?
+A) 255
+B) 256
+C) 127
+D) 64
+ANSWER: A

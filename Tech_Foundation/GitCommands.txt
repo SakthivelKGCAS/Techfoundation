@@ -1,0 +1,38 @@
+User Authentication in Git commands:
+--------------------------------------------------
+git config --global user.email "dd@gmail.com"
+git config --global user.name "dd" (username in GitHub)
+git config --list
+
+To add your file into Git local repository for tracking
+---------------------------------------------------------
+
+git add .\filename.extension (Example: git add .\Home.html)
+
+To commit the changes in the Git local repository
+---------------------------------------------------
+
+git commit -m "message" (example: git commit -m "First commit")
+
+To push the file into Git Global repository
+-----------------------------------------------
+
+git push
+
+To bring the file from Global repository to local repository for work
+-------------------------------------------------------------------
+
+git pull
+
+To Update the existing committed file after the changes in the Git local repository
+----------------------------------------------------------------------------
+git commit -am "message" (example: git commit -m "Second commit Varible a is added")
+
+To push the file into Git Global repository
+-----------------------------------------------
+git push
+
+
+
+
+Note: To see all the commit(changes) in your GitHub account.
